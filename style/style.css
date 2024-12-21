@@ -6,6 +6,7 @@
 }
 body {
     overflow-x: hidden;
+    background-color: #F3F2F8;
 }
 img {
     cursor: pointer;
